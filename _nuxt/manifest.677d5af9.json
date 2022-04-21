@@ -1,0 +1,54 @@
+{
+  "name": "Discord Avatar Maker",
+  "short_name": "Avatar Maker",
+  "description": "The Discord Avatar Maker let's you build static or animated avatars. It requires no backend and is configured as a PWA. This project is best hosted with generating a static project using `yarn generate`.",
+  "icons": [
+    {
+      "src": "/_nuxt/icons/icon_64x64.4bdd6d.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_120x120.4bdd6d.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_144x144.4bdd6d.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_152x152.4bdd6d.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_192x192.4bdd6d.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_384x384.4bdd6d.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_512x512.4bdd6d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#36393F",
+  "theme_color": "#36393F",
+  "lang": "en"
+}
